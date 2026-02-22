@@ -1,0 +1,6 @@
+Alice_Smith 85 90 78
+Bob_Jones 70 Error 90
+Carlos_Rivera 55 58 60
+Diana_King 100 95 98
+Ethan_Lee 72 75 70
+Fatima_Ali 40 50 45

@@ -1,0 +1,5 @@
+Student: Alice_Smith | Average: 84.33
+Student: Carlos_Rivera | Average: 57.67 | Warning: LOW GRADE
+Student: Diana_King | Average: 97.67
+Student: Ethan_Lee | Average: 72.33
+Student: Fatima_Ali | Average: 45.00 | Warning: LOW GRADE
