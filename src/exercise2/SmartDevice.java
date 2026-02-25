@@ -1,4 +1,4 @@
-package excercise2;
+package exercise2;
 
 public abstract class SmartDevice implements Powerable {
 

@@ -1,4 +1,4 @@
-package excercise3;
+package exercise3;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -8,10 +8,10 @@ import java.util.Scanner;
 public class Processor {
 
     public static void main(String[] args) {
-        File inputFile = new File("src/excercise3/student.txt");
+        File inputFile = new File("src/exercise3/student.txt");
 
         try (Scanner fileScanner = new Scanner(inputFile);
-             PrintWriter writer = new PrintWriter("src/excercise3/grades_report.txt")) {
+             PrintWriter writer = new PrintWriter("src/exercise3/grades_report.txt")) {
 
             while (fileScanner.hasNextLine()) {
                 String line = fileScanner.nextLine().trim();
